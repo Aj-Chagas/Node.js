@@ -1,0 +1,6 @@
+Estrutura de dados visa organizar e administrar dados.
+
+Ex: Saiu a lista dos aprovados: estrurar aqui é uma lista.
+
+Os dados são regidos pela estrutura de dados escolhida, seja ela uma lista, pilha, etc
+
