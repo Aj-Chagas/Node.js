@@ -1,4 +1,4 @@
- //a grosso modo callback é chamar uma funcao sempre que um vento ocorre. Outro exemplo é uma requisicao ajax que é um callbacks
+ //a grosso modo callback é chamar uma funcao sempre que um evento ocorre. Outro exemplo é uma requisicao ajax que é um callbacks
  
  const fabricantes = ['Mercedes', 'Audi', 'BMW']
 
@@ -7,4 +7,5 @@
  }
 
  fabricantes.forEach(imprimir)
+ console.log('\n')
  fabricantes.forEach((nomeVeiculo, indice) => console.log(indice + 1 + '. ' + nomeVeiculo))
