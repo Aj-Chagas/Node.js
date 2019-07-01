@@ -19,6 +19,6 @@ const { nome:n, idade: i} = pessoa
 console.log(n, i)
 
 //outra possibilidade
-const { endereco: {logradouro, numero}} = pessoa
+const { endereco: { logradouro: rua, numero: num } } = pessoa
 console.log(rua, num)
 
