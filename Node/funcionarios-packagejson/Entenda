@@ -1,0 +1,11 @@
+npm init //é um comando que vai inicialiazao o package json no projeto
+
+ou ainda 
+
+npm init -y //Dessa foma não é preciso detalhar os detalhes de implementação do arquivo
+
+npm --save nome_DA_dependencia
+
+npm --save-dev nome_DA_dependencia //para dependecias que ficam apenas em ambiente de desenvolvimento
+
+npm install --save-dev NOME_DA_DEPENDENCIA@0.17.0 -E  //para instalar uma versão especifica
