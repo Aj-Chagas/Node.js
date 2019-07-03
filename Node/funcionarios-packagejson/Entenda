@@ -9,3 +9,8 @@ npm --save nome_DA_dependencia
 npm --save-dev nome_DA_dependencia //para dependecias que ficam apenas em ambiente de desenvolvimento
 
 npm install --save-dev NOME_DA_DEPENDENCIA@0.17.0 -E  //para instalar uma versão especifica
+
+
+npm i = reinsta o packagejson
+
+npm run nome_script // para executar scripts personalizados
